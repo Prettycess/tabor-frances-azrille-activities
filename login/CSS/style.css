@@ -1,0 +1,24 @@
+h1 {
+    font-size: 30px;
+    color: rgb(251, 255, 4);
+}
+
+label {
+    background-color:plum;
+}
+
+#userLabel {
+    font-size: 20px;
+}
+
+#passLabel {
+    font-size: 20px;
+}
+
+.labelclass {
+    color:aquamarine;
+}
+
+body{
+    background-color:darksalmon
+}
